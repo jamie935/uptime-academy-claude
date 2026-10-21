@@ -1,0 +1,25 @@
+{
+  "name": "uptime-academy",
+  "version": "1.0.11",
+  "description": "Personal learning for AI, work and life, grounded in Uptime teaching and short Hack recommendations.",
+  "author": {
+    "name": "Uptime",
+    "url": "https://www.uptime.app/"
+  },
+  "homepage": "https://www.uptime.app/",
+  "repository": "https://github.com/jamie935/uptime-academy-claude",
+  "license": "MIT",
+  "icon": "./assets/uptime.png",
+  "privacyPolicyUrl": "https://uptime.app/privacy-policy/",
+  "termsOfServiceUrl": "https://uptime.app/terms-and-conditions/",
+  "supportUrl": "https://help.uptime.app/",
+  "keywords": [
+    "learning",
+    "coaching",
+    "ai",
+    "leadership",
+    "habits",
+    "wellbeing",
+    "uptime"
+  ]
+}
