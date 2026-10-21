@@ -1,5 +1,6 @@
 {
   "name": "uptime-academy",
+  "displayName": "Uptime Academy",
   "version": "1.0.11",
   "description": "Personal learning for AI, work and life, grounded in Uptime teaching and short Hack recommendations.",
   "author": {
