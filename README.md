@@ -26,8 +26,11 @@ own situation.
 2. Open its **Connectors** tab and choose **Connect**.
 3. Complete Uptime's sign-in page, then start a new chat.
 
-For example: "I work in marketing. How can GitHub help me review a website
-change?" Or: "Show me the Uptime Hack of Atomic Habits."
+Try, for example:
+
+- "What can I learn from Atomic Habits? Show me its Uptime Hack."
+- "I work in marketing. How can GitHub help me review a website change?"
+- "Help me prepare for a difficult conversation with someone on my team."
 
 Never paste a sign-in code or password into chat. Uptime's own sign-in page
 connects your account.
